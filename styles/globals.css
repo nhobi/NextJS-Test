@@ -12,5 +12,7 @@ a {
 }
 
 * {
+  color: red;
   box-sizing: border-box;
+  transform: scale(0.7);
 }
